@@ -69,6 +69,8 @@ Open your browser and navigate to http://localhost/web-development-course/.
 
 ✍️ Author & Links
 
-Author: Your Name
+Author: Amirabbas Afrasiyabi
 
-GitHub: @YOUR_USERNAME
+GitHub Profile: @AmirabbasAfrasiyabi
+
+Course Link: Maktabkhooneh Web Programming Course
